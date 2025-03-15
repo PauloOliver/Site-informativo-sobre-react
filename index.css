@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+}
+
+.headerNav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: #3e1fdd;
+    color: white; 
+    font-size: 10px;
+    font-family: "inter";
+} 
+
+.headerNav > h1 {
+    margin-left: 10px;
+    font-weight: 400;
+}
+.headerNav > img {
+    width: 30px;
+}
